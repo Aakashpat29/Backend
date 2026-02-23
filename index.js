@@ -9,7 +9,7 @@ app.get('/', (req, res) => {
   res.send('Hello World!')
 })
 
-app.get('/api/patel', (req, res) => {
+app.get('/api/Patel', (req, res) => {
   res.send('Hello Patel Sahab!')
 })
 
